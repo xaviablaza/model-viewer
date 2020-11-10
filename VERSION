@@ -1,0 +1,5 @@
+commit adfdb66f0a47143835015b7045fc6f65d45ea958
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Nov 9 17:15:08 2020 -0800
+
+    add disable-zoom (#1699)
